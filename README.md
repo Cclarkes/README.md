@@ -1,3 +1,4 @@
 # Connor's Notes
-# This is an h1 header
-###### This is an h6 header
+## Summary
+
+This repository contains all of the notes taken by [Connor](https://github.com/Cclarkes) for the Lighthouse Labs Web Development Bootcamp.
